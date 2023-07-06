@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@layerzerolabs/solidity-examples": "^0.0.12"
+  }
+}
